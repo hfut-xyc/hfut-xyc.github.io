@@ -1,0 +1,1 @@
+const e={key:"v-06198984",path:"/frontend/",title:"Frontend",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"CSS",slug:"css",children:[]},{level:2,title:"JavaScript",slug:"javascript",children:[]},{level:2,title:"WeChat APP",slug:"wechat-app",children:[]}],git:{updatedTime:1658419214e3},filePathRelative:"frontend/README.md"};export{e as data};

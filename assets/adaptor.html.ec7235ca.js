@@ -1,0 +1,1 @@
+const e={key:"v-4c54ae3f",path:"/cs/design/adaptor.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1658419214e3},filePathRelative:"cs/design/adaptor.md"};export{e as data};

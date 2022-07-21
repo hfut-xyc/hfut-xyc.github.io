@@ -1,0 +1,1 @@
+const e={key:"v-40d114ee",path:"/cs/design/decorator.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1658419214e3},filePathRelative:"cs/design/decorator.md"};export{e as data};

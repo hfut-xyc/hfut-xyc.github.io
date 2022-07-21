@@ -1,0 +1,1 @@
+const t={key:"v-9ce8c7ac",path:"/java/spring/springboot-starter.html",title:"SpringBoot \u81EA\u52A8\u914D\u7F6E\u539F\u7406",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1658419214e3},filePathRelative:"java/spring/springboot-starter.md"};export{t as data};

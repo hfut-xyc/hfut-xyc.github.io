@@ -1,0 +1,1 @@
+const e={key:"v-1c7250e0",path:"/cs/design/template-method.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1658419214e3},filePathRelative:"cs/design/template-method.md"};export{e as data};

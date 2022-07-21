@@ -1,0 +1,1 @@
+const e={key:"v-2d0aa572",path:"/mq/",title:"Message Queue",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Kafka",slug:"kafka",children:[]},{level:2,title:"RabbitMQ",slug:"rabbitmq",children:[]}],git:{updatedTime:1654611344e3},filePathRelative:"mq/README.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-d23ea716",path:"/cs/algorithm/tree.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654611344e3},filePathRelative:"cs/algorithm/tree.md"};export{e as data};

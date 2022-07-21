@@ -1,0 +1,1 @@
+const e={key:"v-e9894320",path:"/frontend/js-arrow.html",title:"JS \u7BAD\u5934\u51FD\u6570",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1658419214e3},filePathRelative:"frontend/js-arrow.md"};export{e as data};

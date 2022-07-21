@@ -1,0 +1,1 @@
+const e={key:"v-2d0a81d8",path:"/db/",title:"Database",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"MySQL",slug:"mysql",children:[]},{level:2,title:"Redis",slug:"redis",children:[]}],git:{updatedTime:165373817e4},filePathRelative:"db/README.md"};export{e as data};

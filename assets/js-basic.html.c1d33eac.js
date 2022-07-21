@@ -1,0 +1,1 @@
+const e={key:"v-a157652a",path:"/frontend/js-basic.html",title:"JS \u8BED\u6CD5",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"export",slug:"export",children:[]},{level:2,title:"Array",slug:"array",children:[]},{level:2,title:"JSON",slug:"json",children:[]}],git:{updatedTime:1658419214e3},filePathRelative:"frontend/js-basic.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-bdecce02",path:"/java/spring/springboot-event.html",title:"SpringBoot \u4E8B\u4EF6\u76D1\u542C",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1658419214e3},filePathRelative:"java/spring/springboot-event.md"};export{e as data};

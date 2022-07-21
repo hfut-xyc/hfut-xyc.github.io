@@ -1,0 +1,1 @@
+const e={key:"v-1ce60804",path:"/java/concurrent/2-volatile.html",title:"volatile",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u91CD\u6392\u5E8F",slug:"\u91CD\u6392\u5E8F",children:[]},{level:2,title:"\u53EF\u89C1\u6027",slug:"\u53EF\u89C1\u6027",children:[]}],git:{updatedTime:1655557028e3},filePathRelative:"java/concurrent/2-volatile.md"};export{e as data};
