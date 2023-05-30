@@ -1,0 +1,1 @@
+const e={key:"v-7e9587a0",path:"/db/mysql/select-optimize.html",title:"MySQL \u67E5\u8BE2\u4F18\u5316",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1668261823e3},filePathRelative:"db/mysql/select-optimize.md"};export{e as data};

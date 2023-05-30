@@ -1,0 +1,1 @@
+const e={key:"v-49b0f3a9",path:"/java/collection/priorityqueue.html",title:"PriorityQueue",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1681748772e3},filePathRelative:"java/collection/priorityqueue.md"};export{e as data};

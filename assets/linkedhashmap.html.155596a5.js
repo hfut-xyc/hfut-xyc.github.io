@@ -1,0 +1,1 @@
+const e={key:"v-ff9e857e",path:"/java/collection/linkedhashmap.html",title:"LinkedList",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null},filePathRelative:"java/collection/linkedhashmap.md"};export{e as data};

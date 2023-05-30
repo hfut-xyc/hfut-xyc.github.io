@@ -1,0 +1,1 @@
+const e={key:"v-12ce1be4",path:"/java/concurrent3/blockingqueue.html",title:"BlockingQueue",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1666447854e3},filePathRelative:"java/concurrent3/blockingqueue.md"};export{e as data};

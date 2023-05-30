@@ -1,0 +1,1 @@
+const e={key:"v-385b501e",path:"/java/basic/io.html",title:"Java IO",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u6587\u4EF6 IO",slug:"\u6587\u4EF6-io",children:[]},{level:2,title:"\u7F51\u7EDC IO",slug:"\u7F51\u7EDC-io",children:[]}],git:{updatedTime:1681748772e3},filePathRelative:"java/basic/io.md"};export{e as data};

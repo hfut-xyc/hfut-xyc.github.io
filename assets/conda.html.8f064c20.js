@@ -1,0 +1,1 @@
+const e={key:"v-6125ebd3",path:"/tool/etc/conda.html",title:"Anaconda",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u5B89\u88C5\u4E0E\u914D\u7F6E",slug:"\u5B89\u88C5\u4E0E\u914D\u7F6E",children:[]},{level:2,title:"",slug:"",children:[]}],git:{updatedTime:1671610518e3},filePathRelative:"tool/etc/conda.md"};export{e as data};

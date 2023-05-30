@@ -1,0 +1,1 @@
+const t={key:"v-6f055f86",path:"/java/concurrent3/forkjoin.html",title:"ForkJoin",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1665500525e3},filePathRelative:"java/concurrent3/forkjoin.md"};export{t as data};

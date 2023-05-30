@@ -1,0 +1,1 @@
+const e={key:"v-78ae2cf6",path:"/java/collection/linkedlist.html",title:"LinkedList",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1681748772e3},filePathRelative:"java/collection/linkedlist.md"};export{e as data};

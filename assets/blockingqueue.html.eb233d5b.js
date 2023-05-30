@@ -1,0 +1,1 @@
+import{_ as c,o as a,c as o,a as e,d as t}from"./app.f4424e1f.js";const n={},r=e("h1",{id:"blockingqueue",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#blockingqueue","aria-hidden":"true"},"#"),t(" BlockingQueue")],-1),s=[r];function i(u,_){return a(),o("div",null,s)}var d=c(n,[["render",i],["__file","blockingqueue.html.vue"]]);export{d as default};

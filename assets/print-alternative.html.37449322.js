@@ -1,0 +1,1 @@
+const t={key:"v-68023752",path:"/java/concurrent4/print-alternative.html",title:"\u4EA4\u66FF\u6253\u5370",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1666447854e3},filePathRelative:"java/concurrent4/print-alternative.md"};export{t as data};

@@ -1,0 +1,1 @@
+const a={key:"v-3685636a",path:"/java/concurrent2/final.html",title:"final",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1662049912e3},filePathRelative:"java/concurrent2/final.md"};export{a as data};

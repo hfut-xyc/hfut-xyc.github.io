@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as s,a as e,d as i}from"./app.f4424e1f.js";const n={},d=e("h1",{id:"linkedlist",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#linkedlist","aria-hidden":"true"},"#"),i(" LinkedList")],-1),r=[d];function c(l,o){return a(),s("div",null,r)}var h=t(n,[["render",c],["__file","linkedlist.html.vue"]]);export{h as default};

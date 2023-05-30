@@ -1,0 +1,1 @@
+const e={key:"v-8ca65392",path:"/db/mysql/create-table.html",title:"MySQL \u5EFA\u8868\u89C4\u7EA6",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1668261823e3},filePathRelative:"db/mysql/create-table.md"};export{e as data};

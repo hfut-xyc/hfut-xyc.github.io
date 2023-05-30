@@ -1,0 +1,1 @@
+const e={key:"v-db9b52e4",path:"/java/concurrent4/producer-consumer.html",title:"\u751F\u4EA7\u8005-\u6D88\u8D39\u8005\u6A21\u5F0F",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1665500525e3},filePathRelative:"java/concurrent4/producer-consumer.md"};export{e as data};

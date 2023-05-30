@@ -1,0 +1,1 @@
+const t={key:"v-546e5c66",path:"/java/concurrent3/copyonwritearraylist.html",title:"CopyOnWriteArrayList",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1666447854e3},filePathRelative:"java/concurrent3/copyonwritearraylist.md"};export{t as data};

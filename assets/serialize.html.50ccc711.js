@@ -1,0 +1,1 @@
+const e={key:"v-5ebdcaee",path:"/java/basic/serialize.html",title:"Java \u5E8F\u5217\u5316",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1681748772e3},filePathRelative:"java/basic/serialize.md"};export{e as data};

@@ -1,0 +1,4 @@
+import{_ as s,o as e,c as n,e as a}from"./app.f4424e1f.js";const l={},c=a(`<div class="language-bash ext-sh line-numbers-mode"><pre class="shiki" style="background-color:#1E1E1E;"><code><span class="line"><span style="color:#6A9955;"># test.sh</span></span>
+<span class="line"><span style="color:#DCDCAA;">cd</span><span style="color:#D4D4D4;"> /home/xxx</span></span>
+<span class="line"><span style="color:#DCDCAA;">pwd</span><span style="color:#D4D4D4;"> </span></span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>sh test.sh</p><p>source test.sh</p><p>. test.sh</p><p>. ./test.sh</p>`,5),t=[c];function o(p,i){return e(),n("div",null,t)}var d=s(l,[["render",o],["__file","shell.html.vue"]]);export{d as default};
